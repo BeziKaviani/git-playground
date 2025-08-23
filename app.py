@@ -3,3 +3,4 @@ import converter
 
 Human.walk()
 print(converter.lbs_to_kg(160))
+Human.talk("hello")
