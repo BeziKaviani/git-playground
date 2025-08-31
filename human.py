@@ -9,3 +9,6 @@ class Human:
 
     def walk():
         print("Walking")
+
+    def run():
+        print("Running")
