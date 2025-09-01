@@ -1,5 +1,5 @@
-import converter
-from human import Human
+import converter_funcs
+from Human_class import Human
 
 Human.walk()
-print(converter.lbs_to_kg(160))
+print(converter_funcs.lbs_to_kg(160))
