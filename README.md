@@ -20,7 +20,7 @@ This repo contains various branches and scenarios for practicing:
 
 | Topic/Scenario | Branch Name | Description |
 | :--- | :--- | :--- |
-| **Basic Commits** | `main` | Practice making atomic commits with good messages. |
+| **Basic Commits** | `master` | Practice making atomic commits with good messages. |
 | **Branching & Merging** | `feature/*`, `bugfix/*` | Create branches, develop features, and merge them back. |
 | **Rebasing** | `rebase-experiment` | Practice rewriting history and cleaning up commits. |
 | **Merge Conflicts** | `conflict-branch` | Intentionally create and resolve merge conflicts. |
