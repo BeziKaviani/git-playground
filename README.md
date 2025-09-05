@@ -55,6 +55,7 @@ git reset --hard origin/main
 # Or, simply delete the repo and re-clone it (easiest method!)
 rm -rf git-playground
 git clone https://github.com/YOUR-USERNAME/git-playground.git
+'''
 
 ## 🤝 Contributing & Feedback
 
