@@ -2,9 +2,9 @@ import converter_funcs
 from Human_class import Human
 from Animal_class import Animal
 
-Human.walk()
-print(converter_funcs.lbs_to_kg(160))
+user = Human("Behzad", "Kaviani", 22)
+user.walk()
 
 bear = Animal("BEAR")
 bear.eat()
-
+bear.sleep()
